@@ -1,5 +1,5 @@
 # LIFX Specification
-LIFX LAN protocol specifications generated from the decompiled LIFX Android application.
+LIFX LAN protocol specification generated from the decompiled LIFX Android application.
 
 __*__ = [officially documented](https://lan.developer.lifx.com/docs)
 
