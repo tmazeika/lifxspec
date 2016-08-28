@@ -97,10 +97,10 @@ on [1] bool
 
 #### 13 (DEVICE_STATE_HOST_INFO) *
 ```
-signal         [4] float
-tx             [4] uint
-rx             [4] uint
-mcuTemperature [2] uint
+signal          [4] float
+tx              [4] uint
+rx              [4] uint
+mcu_temperature [2] uint
 ```
 
 #### 14 (DEVICE_GET_HOST_FIRMWARE) *
@@ -118,10 +118,10 @@ version [4] uint
 
 #### 17 (DEVICE_STATE_WIFI_INFO) *
 ```
-signal         [4] float
-tx             [4] uint
-rx             [4] uint
-mcuTemperature [2] int
+signal          [4] float
+tx              [4] uint
+rx              [4] uint
+mcu_temperature [2] int
 ```
 
 #### 18 (DEVICE_GET_WIFI_FIRMWARE) *
