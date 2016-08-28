@@ -451,7 +451,7 @@ duration [4] uint
 
 #### 118 (LIGHT_STATE_POWER) *
 ```
-lavel [2] uint
+level [2] uint
 ```
 
 #### 119 (LIGHT_SET_WAVEFORM_OPTIONAL)
