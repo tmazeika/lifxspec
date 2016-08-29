@@ -537,7 +537,7 @@ seconds [2] uint
 host                 [32] string
 insecure_skip_verify [1]  bool
   0x0 = false
- !0x1 = true
+ !0x0 = true
 ```
 
 #### 210 (WAN_GET_HOST)
@@ -548,7 +548,7 @@ insecure_skip_verify [1]  bool
 host                 [32] string
 insecure_skip_verify [1]  bool
   0x0 = false
- !0x1 = true
+ !0x0 = true
 ```
 
 #### 301 (WIFI_GET)
