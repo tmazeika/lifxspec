@@ -82,7 +82,7 @@ position [1] uint
 ```
 on [1] bool
   0x0 = false
-  0x1 = true
+ !0x0 = true
 ```
 
 #### 11 (DEVICE_STATE_DUMMY_LOAD)
